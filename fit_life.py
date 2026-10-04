@@ -1,8 +1,4 @@
 # Проект FitLife - MVP версия 1.0
-import sys
-import io
-
-sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 water_per_kg = 30
 constant_ml = 1000
 
